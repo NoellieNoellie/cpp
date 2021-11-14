@@ -5,14 +5,13 @@ HEHE
 
 `monospace`
 
-```
+``` js
 // this is a code block
 
 // it doesnt do anything except look good
 ```
 
--strikethroughs-
 
-~italics?~
+~strikethroughs~
 
 ### Smaller text thats big
