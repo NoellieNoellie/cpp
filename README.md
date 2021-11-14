@@ -5,10 +5,14 @@ HEHE
 
 `monospace`
 
-``` js
+``` cpp
 // this is a code block
 
 // it doesnt do anything except look good
+
+int main() {
+    printf("hi");
+}
 ```
 
 
